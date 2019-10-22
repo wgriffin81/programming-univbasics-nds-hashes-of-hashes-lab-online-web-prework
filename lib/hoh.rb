@@ -43,13 +43,10 @@ def naming_system
   # HoH all the way to Species!
   {
     PORTION_1 = {
-      label: "Kingdon",
-      sub_category : {
-        label: "Phylum",
-        sub_category: {
-          label:"class"
-        }
-      }  
+     :Kingdom
+     name: "",
+     Phylum {},
+     Class: {}
     }
   }
   
