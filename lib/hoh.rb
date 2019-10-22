@@ -44,8 +44,14 @@ def naming_system
   {
     PORTION_1 = {
       label: "Kingdon",
-      sub
+      sub_category : {
+        label: "Phylum",
+        sub_category: {
+          label:"class"
+        }
+      }  
     }
   }
+  
 
 end
