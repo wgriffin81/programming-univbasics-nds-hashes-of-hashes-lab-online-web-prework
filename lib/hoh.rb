@@ -43,9 +43,9 @@ def naming_system
   # HoH all the way to Species!
   {
     node = {
-     kingdom: {},
-     phylum: {},
-     class: {}
+     Kingdom: {},
+     Phylum: {},
+     Class: {}
     }
   }
   
