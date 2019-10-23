@@ -44,8 +44,8 @@ def naming_system
   
     Kingdom ={
       :sub_category => {
-        Phylum: {},
-        Class: {}
+        phylum: {},
+        class: {}
       }
     }
   
