@@ -44,8 +44,10 @@ def naming_system
   {
     node = {
      Kingdom: {},
-     Phylum: {},
-     Class: {}
+     :sub_category {
+       Phylum: {},
+      Class: {}
+     }
     }
   }
   
